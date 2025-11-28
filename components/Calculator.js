@@ -86,7 +86,6 @@ export default function Calculator() {
 
         {/* Row 4 */}
         <button id="btn-0" onClick={() => handleButtonClick('0')}>0</button>
-        <button id="btn-E" onClick={() => handleButtonClick('E')}>E</button>
         <button id="btn-clear" onClick={() => handleButtonClick('C')}>C</button>
         <button id="btn-add" onClick={() => handleButtonClick('+')}>+</button>
 
